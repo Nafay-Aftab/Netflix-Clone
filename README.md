@@ -31,3 +31,9 @@ A responsive **Netflix Clone** built using **HTML** and **CSS**. This project re
 
    ```sh
    git clone https://github.com/Nafay-Aftab/Netflix-Clone.git
+   
+🌐 Live Demo
+Experience the live version of the project:
+   https://nafay-aftab.github.io/Netflix-Clone/
+
+ 
