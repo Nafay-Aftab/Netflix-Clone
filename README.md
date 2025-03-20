@@ -34,6 +34,8 @@ A responsive **Netflix Clone** built using **HTML** and **CSS**. This project re
    
 🌐 Live Demo
 Experience the live version of the project:
-https://nafay-aftab.github.io/Netflix-Clone/
+sweet-dusk-2f58d4.netlify.app
+
+
 
  
